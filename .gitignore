@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+b2b_bot/
+vector_db/
+vector_db.stale_pre_fix_backup/
+logs/*.log
+.deepeval/
+
+# local debug/diagnostic output, not project source
+cloudflared.deb
+baseline_out.txt
+diag1.txt
+diag2.txt
+out.txt
+stability_out.txt
