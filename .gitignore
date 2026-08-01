@@ -6,7 +6,6 @@ b2b_bot/
 vector_db/
 vector_db.stale_pre_fix_backup/
 logs/*.log
-.deepeval/
 
 # local debug/diagnostic output, not project source
 cloudflared.deb
